@@ -1,19 +1,19 @@
 {
-  "name": "proxy-server-1-master",
+  "name": "nodejs",
   "version": "1.0.0",
-  "description": "https://pawitsahare-demo.vercel.app",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo test is not available.",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "PawitSahare",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^18.0.6",
+    "absolutify": "^0.1.0",
     "express": "^4.18.2",
-    "i": "^0.3.7",
-    "nodemon": "^2.0.20",
-    "pnpm": "^7.25.1"
+    "node-fetch": "^3.2.6",
+    "puppeteer": "^19.5.2"
   }
 }
