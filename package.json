@@ -1,0 +1,13 @@
+{
+  "name": "proxy-server-1-master",
+  "version": "1.0.0",
+  "description": "https://pawitsahare-demo.vercel.app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo test is not available.",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
