@@ -1,13 +1,21 @@
 ## Usage
-http://localhost:8080/?url=github.com/facebook/react
+http://DOMAIN?url=google.com
 
 ## Deployment
 1. Add buildpack for Puppeteer
 ```
-heroku buildpacks:add https://github.com/jontewks/puppeteer-heroku-buildpack
+    #Windows:-
+    npm i puppeteer
+    npm i express --save
+    npm i absolutify
+
 ```
 
-2. Push to heroku
+2. Push to RENDER
 ```
-git push heroku master
+    commad[npm run start --node js
+           npm run dev -- nodemom
+           node server.js
+            
+    ]
 ```
